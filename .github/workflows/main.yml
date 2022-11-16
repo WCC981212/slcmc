@@ -32,7 +32,7 @@ jobs:
           dst_path: /.
           dst_repo_name: 'slcmc_web'
           dst_owner: 'WCC981212'
-          src_branch: 'main'
+          src_branch: 'master'
           dst_branch: 'main'
           clean: true
           commit_message: "AUTO deploy"
