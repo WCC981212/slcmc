@@ -1,0 +1,9 @@
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/wongc/SLCMC/slcmc/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
